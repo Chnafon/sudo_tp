@@ -107,7 +107,9 @@ Create a sudo configuration file under `/etc/sudoers.d` to store the required ru
         * `/tmp/sudo_tp/opt/web_service/log/web_service_2.gz`
 
 YOU CANNOT CREATE ANY GROUP 
+
 YOU ARE ALLOWED TO ADD ANY USER TO AN EXISTING GROUP
+
 MAKE USE OF ALIASES WHENEVER IT IS USEFUL
 
 REMEMBER TO APPLY THE LEAST PRIVILEGE PRINCIPLE !
